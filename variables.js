@@ -1,0 +1,10 @@
+let a=25;
+const b=35;
+var c=45;
+console.log(a);
+console.log(b);
+console.log(c);
+a=30;
+c=50;
+console.log(a);
+console.log(c);
